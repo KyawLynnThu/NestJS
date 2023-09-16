@@ -1,0 +1,6 @@
+Installation
+- npm i -g @nestjs/cli
+- nest new project-name
+
+Module Generate Command
+- nest g module module-name
